@@ -1,3 +1,3 @@
-This is first document fixed 1
-i wanna change the text
-blue flag 
+1.This is first document fixed 1
+2.i wanna change the text
+3.blue flag 
