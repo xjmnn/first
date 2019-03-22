@@ -1,9 +1,7 @@
-﻿2.i wanna change the text
+2.i wanna change the text
 3.blue flag 
 <<<<<<< HEAD
 4.ABC
 =======
 4．ABC
 >>>>>>> parent of 5c51b66... version1.5
-
-xyz
